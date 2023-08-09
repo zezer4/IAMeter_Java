@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.URLEncoder;
 
-@WebServlet(name = "_4_StandardEncoders", value = "/_4_StandardEncoders")
+@WebServlet(name = "_04_StandardEncoders", value = "/_04_StandardEncoders")
 public class _04_StandardEncoders extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

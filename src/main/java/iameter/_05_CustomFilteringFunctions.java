@@ -12,7 +12,7 @@ class CustomFilter {
     }
 }
 
-@WebServlet(name = "_5_CustomFilteringFunctions", value = "/_5_CustomFilteringFunctions")
+@WebServlet(name = "_05_CustomFilteringFunctions", value = "/_05_CustomFilteringFunctions")
 public class _05_CustomFilteringFunctions extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

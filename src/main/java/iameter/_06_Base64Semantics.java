@@ -9,7 +9,7 @@ import javax.servlet.annotation.*;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "_6_Base64Semantics", value = "/_6_Base64Semantics")
+@WebServlet(name = "_06_Base64Semantics", value = "/_06_Base64Semantics")
 public class _06_Base64Semantics extends HttpServlet {
 
     @Override
