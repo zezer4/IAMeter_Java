@@ -6,7 +6,7 @@ import javax.servlet.annotation.*;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "_3_UnreacableCode", value = "/_3_UnreacableCode")
+@WebServlet(name = "_03_UnreacableCode", value = "/_03_UnreacableCode")
 public class _03_UnreachableCode extends HttpServlet {
 
     @Override

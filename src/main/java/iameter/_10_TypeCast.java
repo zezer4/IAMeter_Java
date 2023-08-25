@@ -12,7 +12,7 @@ import java.net.URLEncoder;
 
 import static java.lang.Integer.parseInt;
 
-@WebServlet(name = "_7_ForCycle", value = "/_7_ForCycle")
+@WebServlet(name = "_10_TypeCast", value = "/_10_TypeCast")
 public class _10_TypeCast extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

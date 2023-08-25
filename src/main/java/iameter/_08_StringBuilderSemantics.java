@@ -6,7 +6,7 @@ import javax.servlet.annotation.*;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "_8_StringBuilderSemantics", value = "/_8_StringBuilderSemantics")
+@WebServlet(name = "_08_StringBuilderSemantics", value = "/_08_StringBuilderSemantics")
 public class _08_StringBuilderSemantics extends HttpServlet {
 
     @Override

@@ -6,7 +6,7 @@ import javax.servlet.annotation.*;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet(name = "_7_ForCycle", value = "/_7_ForCycle")
+@WebServlet(name = "_07_ForCycle", value = "/_07_ForCycle")
 public class _07_ForCycle extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

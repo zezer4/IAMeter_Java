@@ -14,7 +14,7 @@ import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 import javax.xml.parsers.*;
 
-@WebServlet(name = "_9_XXE", value = "/_9_XXE")
+@WebServlet(name = "_09_XXE", value = "/_09_XXE")
 public class _09_XXE extends HttpServlet {
 
     @Override
