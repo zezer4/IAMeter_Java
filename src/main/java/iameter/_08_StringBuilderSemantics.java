@@ -17,7 +17,7 @@ public class _08_StringBuilderSemantics extends HttpServlet {
         StringBuilder sb = new StringBuilder();
 
         // True positive
-        responseWriter.println(parm1);
+        // responseWriter.println(parm1);
 
         String cond1 = "ZmFsc2U=";// "false" in Base64 encoding
         sb.append(cond1);
